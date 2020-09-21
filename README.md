@@ -1,5 +1,5 @@
 # Project purpose
- This project is for to print any page in Angular using ngx-print.
+ This project is for to print any page in Angular using ngx-print and serveside pagination in Card Layout.
 # MainTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
